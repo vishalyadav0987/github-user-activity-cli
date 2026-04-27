@@ -1,7 +1,7 @@
 # 🐙 GitHub Activity CLI (Golang)
 
-<!-- 🔗 **Project URL:**
-[https://roadmap.sh/projects/github-user-activity](https://roadmap.sh/projects/github-user-activity) -->
+🔗 **Project URL:**
+https://roadmap.sh/projects/github-user-activity
 
 ---
 
