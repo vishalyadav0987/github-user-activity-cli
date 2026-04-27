@@ -1,10 +1,10 @@
 package githubactivity
 
 type Activity struct {
-	Id        string
-	Type      string
-	Actor     map[string]interface{}
-	Repo      map[string]interface{}
-	Payload   map[string]interface{}
-	CreatedAt string
+	Id        string                 `json:"id"`
+	Type      string                 `json:"type"`
+	Actor     map[string]interface{} `json:"actor"`
+	Repo      map[string]interface{} `json:"repo"`
+	Payload   map[string]interface{} `json:"payload"`
+	CreatedAt string                 `json:"created_at"`
 }
